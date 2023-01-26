@@ -1,7 +1,7 @@
 # Masters-Thesis
 This repository holds my Master's Thesis undertaken at IIIT Bangalore.
 
-##Abstract
+## Abstract
 Albeit their great success on a variety of tasks, modern deep learning architectures
 are plagued by their inability to capture abstract relationships efficiently. Learning a
 new concept requires these architectures to be trained on hundreds or thousands of

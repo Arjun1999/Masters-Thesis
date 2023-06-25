@@ -19,4 +19,10 @@ keywords:
 license: CC BY-NC-ND
 message: If you use my Thesis in your work, please cite it using these metadata.
 repository-code: "https://github.com/Arjun1999/Masters-Thesis"
-title: Towards Compositional Learning for Natural Language Understanding
+preferred-citation:
+  title: "Towards Compositional Learning for Natural Language Understanding"
+  type: report
+  authors:
+  - family-names: "Verma"
+    given-names: "Arjun"
+  year: 2022

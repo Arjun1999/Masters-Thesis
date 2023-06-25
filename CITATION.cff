@@ -7,7 +7,7 @@ authors:
 cff-version: 1.2.0
 date-released: "2022-06-08"
 identifiers:
-  - type: url
+  - type: report
     value: "https://github.com/Arjun1999/Masters-Thesis/"
     description: Latest version
 keywords:

@@ -8,3 +8,11 @@ them. Unsurprisingly, one of the domains which has witnessed great research alon
 ### Note
 This work has been posted under the CC BY-NC-ND License 
 (https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode)
+
+
+### Cite this work
+@techreport{Verma_Towards_Compositional_Learning_2022,
+author = {Verma, Arjun},
+title = {{Towards Compositional Learning for Natural Language Understanding}},
+year = {2022}
+}

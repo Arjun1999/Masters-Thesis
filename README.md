@@ -11,8 +11,8 @@ This work has been posted under the CC BY-NC-ND License
 
 
 ### Cite this work
-@techreport{Verma_Towards_Compositional_Learning_2022,
-author = {Verma, Arjun},
-title = {{Towards Compositional Learning for Natural Language Understanding}},
-year = {2022}
+@techreport{Verma_Towards_Compositional_Learning_2022, \
+author = {Verma, Arjun}, \
+title = {{Towards Compositional Learning for Natural Language Understanding}}, \
+year = {2022} 
 }

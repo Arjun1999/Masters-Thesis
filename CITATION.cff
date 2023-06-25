@@ -1,0 +1,23 @@
+abstract: Albeit their great success on a variety of tasks, modern deep learning architectures are plagued by their inability to capture abstract relationships efficiently. Learning a new concept requires these architectures to be trained on hundreds or thousands of training examples. Humans on the other hand possess the ability to understand concepts from very few examples. Many cognitive studies have prominently attributed this efficiency to our ability to exploit compositional structures. This has motivated the development of new specialized architectures with stronger compositional biases built into
+them. Unsurprisingly, one of the domains which has witnessed great research along this direction is of natural language understanding. The presence of well-defined compositional structures in the form of phrase structure grammars (grammar production rules) has benefitted this research greatly. In this thesis, we pursue a similar direction and introduce a novel compositional learning setup for natural language. We test our framework on the task of grammar induction and with promising initial results, we believe there is merit in adopting the proposed methodology.
+authors:
+  - family-names: Verma
+    given-names: Arjun
+    orcid: "https://orcid.org/0000-0003-2766-1194"
+cff-version: 1.2.0
+date-released: "2022-06-08"
+identifiers:
+  - type: url
+    value: "https://github.com/Arjun1999/Masters-Thesis/"
+    description: Latest version
+keywords:
+  - research
+  - "cpmpositional learning"
+  - "natural language understanding"
+  - "recurrent independent mechanisms"
+  - "grammar induction"
+  - "Penn-Tree Bank"
+license: CC BY-NC-ND
+message: If you use my Thesis in your work, please cite it using these metadata.
+repository-code: "https://github.com/Arjun1999/Masters-Thesis"
+title: Towards Compositional Learning for Natural Language Understanding
